@@ -19,7 +19,7 @@ sidebar:
     github: dongie416
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -44,86 +44,44 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About PUBG
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG) is a competitive survival shooter formally developed/published by Bluehole. PUBG is now being developed by PUBG Corp, a Bluehole subsidiary company [1] in cooperation with Brendan Greene (PLAYERUNKNOWN) as the Creative Director, PUBG is Greene's first standalone game.
+
+Players are dropped into a wide, open area, and they must fight to the death - all while the battlefield shrinks, adding pressure to all in its grip. Use a variety of interesting weapons and vehicles amid the BATTLEGROUNDS. "Killing off another player cuts down on your competition, but it also offers up the opportunity to grab some loot. Your character can only carry around a limited amount of gear, so there are important questions to ask whenever you come across new items. Is it better to stick with your current 9mm pistol, or hold out hope that you'll be able to find ammo for a found 12 gauge shotgun?"
+
+BATTLEGROUNDS is running on Unreal Engine 4, players take on the Battle Royale experience on a 8x8 km map called "Erangel." BATTLEGROUNDS is a good balance between Arma 3 and H1Z1.
 
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Harvard in Computer Science
+      university: Harvard University
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I am illegaly legal so don't report me
 
-          - Bullet point
-          - Bullet point
+          - yeet
+          - hue
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: Harvard in Mathematics
+      university: Harvard University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Stop bullying
 
-          - Bullet point
-          - Bullet point
+          - hue
+          - yeet
 
-experiences:
+Backstory of PUBG:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    BATTLEGROUNDS takes place on different islands (maps), but the main island for BATTLEGROUNDS is called Erangel. An abandoned Russian island where a military occupation was controlling the island. The military occupation tested chemical/biological experiments on the islands population, after a resistance attack on a biological facility, the island had to be abandoned.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - 응
+          - 아냐
 
 projects:
     title: Projects
@@ -133,67 +91,47 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Yeet
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Yeet is a versatile word that can be used as an exclamation, a verb, or even a noun."
 
-      - title: DevStudio
+      - title: Hue
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A word (used primarily by Brazilian gamers or those parodying them) similar to "haha" or "lol"."
 
-      - title: Tempo
+      - title: Fuck
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The word that is said immediately after the WiFi stops working."
 
-      - title: Atom
+      - title: Shit
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "another word Feces. Poop. Dookie. Scheisse. Poo Poo. Brownies. "
 
-      - title: Delta
+      - title: Yoit
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "This words is only used by the meme gods(no further explanation)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: game
+        level: 68%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: reading
+        level: 12%
 
-      - name: Angular
-        level: 98%
+      - name: writing
+        level: 20%
 
-      - name: HTML5 & CSS
+      - name: Sleeping
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Sum Hoops
+        level: 62%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Soccer
+        level: 64%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
