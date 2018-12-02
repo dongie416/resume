@@ -8,127 +8,126 @@ sidebar:
 
     # Profile information
     name: Dong Jae Rhee
-    tagline: Full Stack Developer
+    tagline: KIS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dongie416@gmail.com
     phone: 010 2250 3753
-    website: dongie416.github.io/index.html #do not add http://
-    linkedin:
+    website: www.idontknow.como #do not add http://
+    linkedin: alandoe
     github: dongie416
     gitlab:
     bitbucket:
-    twitter:
+    twitter: '@dongie416'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Korean
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Playing Basketball
         link:
 
-      - item: Snowboarding
+      - item: Playing tennis
         link:
 
-      - item: Cooking
+      - item: Coding
         link:
 
 career-profile:
-    title: About PUBG
-    summary:
-    PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG) is a competitive survival shooter formally developed/published by Bluehole. PUBG is now being developed by PUBG Corp, a Bluehole subsidiary company [1] in cooperation with Brendan Greene (PLAYERUNKNOWN) as the Creative Director, PUBG is Greene's first standalone game. Players are dropped into a wide, open area, and they must fight to the death - all while the battlefield shrinks, adding pressure to all in its grip. Use a variety of interesting weapons and vehicles amid the BATTLEGROUNDS. "Killing off another player cuts down on your competition, but it also offers up the opportunity to grab some loot. Your character can only carry around a limited amount of gear, so there are important questions to ask whenever you come across new items. Is it better to stick with your current 9mm pistol, or hold out hope that you'll be able to find ammo for a found 12 gauge shotgun?" BATTLEGROUNDS is running on Unreal Engine 4, players take on the Battle Royale
-    experience on a 8x8 km map called "Erangel." BATTLEGROUNDS is a good balance between Arma 3 and H1Z1.
-
-      Second paragraph if required.
-
+    title: Career Profile
+    summary: |
+    I am a student that attends the school of KIS (Korean International School) and this is my resume that I have created with my coding skills.
 education:
     - degree: Harvard in Computer Science
-      university: Harvard University
+      university: University of Harvard
       time: 2011 - 2012
       details: |
-        I am illegaly___ legal so don't report me
+      Me dont likey this thing of coding yes very nice me like to code in coding hagwon but sometimes very boring cyka.
+          - no
+          - yes
 
-          - yeet
-          - hue
-
-    - degree: Harvard in Mathematics
-      university: Harvard University
-      time: 2007 - 2011
-      details: |
-        Stop bullying
-
-          - hue
-          - yeet
-
-Backstory of PUBG:
-    - role: Lead Developer
+experiences:
+    - role: KIS Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: KIS School
       details: |
-    BATTLEGROUNDS takes place on different islands (maps), but the main island for BATTLEGROUNDS is called Erangel. An abandoned Russian island where a military occupation was controlling the island. The military occupation tested chemical/biological experiments on the islands population, after a resistance attack on a biological facility, the island had to be abandoned.
-
-          - 응
-          - 아냐
+      I am a lead develper for the school KIS and I create many websites for the school and I am able to create websites easily only if I have an assigned template.
+          - coding
+          - Programming 1
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      Down below is my assignments that I have created throughout my school year.
+      These projects contains a lot of effort that I gave and provided throughout all the work that I have done.
     assignments:
-      - title: Yeet
+      - title: github
         link: "#hook"
-        tagline: "Yeet is a versatile word that can be used as an exclamation, a verb, or even a noun."
+        tagline: "Website reffering to my school project of Geometry, provided 80% of effort."
 
-      - title: Hue
+      - title: Portafolio
         link: "#"
-        tagline: "A word (used primarily by Brazilian gamers or those parodying them) similar to "haha" or "lol"."
+        tagline: "A website reffering to my personal life, a portafolio that portrays my life in general, provided 50% effort."
 
-      - title: Fuck
+      - title: Xcode
         link: "#"
-        tagline: "The word that is said immediately after the WiFi stops working."
+        tagline: "Website or a line of code that I worked on during programming class, gudied by the teacher's help and my partner's help. Provided 70% of effort."
 
-      - title: Shit
+      - title: Atom
         link: "#"
-        tagline: "another word Feces. Poop. Dookie. Scheisse. Poo Poo. Brownies. "
+        tagline: "An app that helps me create a website and does most of the coding in this app, Javascript, Java, C#, etc, provided 100% effort"
 
-      - title: Yoit
-        link: "#"
-        tagline: "This words is only used by the meme gods(no further explanation)"
+
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section.These publications basically represents my coding style and skills and how I am capable of coding.
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills and Proficiency
 
     toolset:
-      - name: game
-        level: 68%
+      - name: Python & Django
+        level: 29%
 
-      - name: reading
-        level: 12%
+      - name: Javascript & jQuery
+        level: 90%
 
-      - name: writing
-        level: 20%
+      - name: Angular
+        level: 2%
 
-      - name: Sleeping
-        level: 95%
+      - name: HTML5 & CSS
+        level: 70%
 
-      - name: Sum Hoops
-        level: 62%
+      - name: Ruby on Rails
+        level: 2%
 
-      - name: Soccer
-        level: 64%
+      - name: Sketch & Photoshop
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
